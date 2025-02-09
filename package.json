@@ -1,0 +1,20 @@
+{
+  "name": "expresstime",
+  "version": "1.0.0",
+  "description": "Este proyecto es una API construida con **Node.js** y **Express**.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tailwindcss/postcss": "^4.0.4",
+    "express": "^4.21.2",
+    "express-handlebars": "^8.0.1",
+    "http": "^0.0.1-security",
+    "socket.io": "^4.8.1"
+  }
+}

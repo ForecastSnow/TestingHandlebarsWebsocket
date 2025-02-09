@@ -1,0 +1,119 @@
+[
+  {
+    "id": 1737776626359,
+    "title": "MOAB",
+    "description": "Mother of All Bombs, la bomba no nuclear más poderosa.",
+    "code": "MOAB001",
+    "price": 999999,
+    "stock": 1,
+    "category": "Fuegos artificiales",
+    "thumbnails": [
+      "moab.jpg"
+    ],
+    "status": true
+  },
+  {
+    "id": 1737776626460,
+    "title": "Muñeca System",
+    "description": "La ultima sensacion.",
+    "code": "1-666",
+    "price": 2500,
+    "stock": 15,
+    "category": "Articulos de limpieza",
+    "thumbnails": [
+      "munecaSystem.png"
+    ],
+    "status": true
+  },
+  {
+    "id": 1737776626360,
+    "title": "UZI Subfusil",
+    "description": "Subfusil compacto calibre 9mm, ideal para el combate cercano.",
+    "code": "UZI69",
+    "price": 2500,
+    "stock": 15,
+    "category": "armas",
+    "thumbnails": [
+      "uzi.jpg"
+    ],
+    "status": true
+  },
+  {
+    "id": 1737776626361,
+    "title": "China Lore",
+    "description": "Reliquia legendaria, se desconoce su origen.",
+    "code": "CHINALORE",
+    "price": 99999,
+    "stock": 5,
+    "category": "meme",
+    "thumbnails": [
+      "chinaLore.jpg"
+    ],
+    "status": true
+  },
+  {
+    "id": 1737776626362,
+    "title": "Ocelot",
+    "description": "El icónico Ocelot de Metal Gear Solid, letal y elegante.",
+    "code": "OCELOTMGS",
+    "price": 8000,
+    "stock": 3,
+    "category": "Legendario",
+    "thumbnails": [
+      "ocelot.jpg"
+    ],
+    "status": true
+  },
+  {
+    "id": 1737776626363,
+    "title": "Loan",
+    "description": "¿Donde esta loan!?",
+    "code": "LOANMEME",
+    "price": 1,
+    "stock": 9999,
+    "category": "Bromas pesadas?",
+    "thumbnails": [
+      "loan.jpg"
+    ],
+    "status": true
+  },
+  {
+    "id": 1737776626364,
+    "title": "Brazo del Pichichi",
+    "description": "El mítico brazo de Daniel Scioli, edición coleccionista.",
+    "code": "PICHIBRAZO",
+    "price": 50000,
+    "stock": 2,
+    "category": "Collecionables",
+    "thumbnails": [
+      "brazoScioli.jpg"
+    ],
+    "status": true
+  },
+  {
+    "id": 1737776626369,
+    "title": "Meme devaluado",
+    "description": "Un meme devaluado sin gracia.",
+    "code": "Momos",
+    "price": 340000,
+    "stock": 2,
+    "category": "meme",
+    "thumbnails": [
+      "memeDevaluado.jpg"
+    ],
+    "status": true
+  },
+  {
+    "id": 1737776626311,
+    "title": "Un Italiano",
+    "description": "Un italiano",
+    "code": "Momo",
+    "price": 10,
+    "stock": 1,
+    "category": "italianos",
+    "thumbnails": [
+      "momoItaliano.jpg"
+    ],
+    "status": true
+  }
+]
