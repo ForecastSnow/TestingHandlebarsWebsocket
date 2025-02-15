@@ -55,11 +55,11 @@ io.on("connection", async (socket) => {
         try {
             productManager.deleteProduct(parseInt(id));
 
-            socket.emit("productsDataRefresh", (productsQuery()));
+            io.emit("productsDataRefresh", (productsQuery()));
 
             socket.emit("notification", ("Eliminado con Exito!"));
         } catch (error) {
-            socket.emit("notification", ("Error " + error))
+            socket.emit("notification", (error.message))
         }
 
     });
@@ -73,7 +73,7 @@ io.on("connection", async (socket) => {
 
             productManager.addProduct(product.title, product.description, product.code, product.price, product.stock, product.category);
 
-            socket.emit("productsDataRefresh", (productsQuery()));
+            io.emit("productsDataRefresh", (productsQuery()));
 
             socket.emit("notification", ("Producto creado con Exito!"));
         } catch (error) {
